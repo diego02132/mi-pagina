@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Recomendaciones para Ingresar a la Universidad</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #f2f2f2;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #2e86de;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+    }
+    main {
+      padding: 30px;
+      max-width: 900px;
+      margin: auto;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #2e86de;
+    }
+    ul {
+      line-height: 1.8;
+    }
+    footer {
+      text-align: center;
+      padding: 15px;
+      background: #ddd;
+      margin-top: 30px;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>¡Prepárate para la U!</h1>
+    <p>Recomendaciones académicas para brillar en el examen de admisión</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>📚 Estudia con estrategia</h2>
+      <ul>
+        <li>Identifica las materias clave del examen de ingreso.</li>
+        <li>Elabora un horario de estudio realista y ¡síguelo como si fuera tu serie favorita!</li>
+        <li>Haz resúmenes, mapas mentales o fichas. Lo que te funcione, ¡úsalo!</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>📝 Practica con simulacros</h2>
+      <ul>
+        <li>Haz exámenes antiguos y cronométrate.</li>
+        <li>Evalúa tus errores y trabaja en ellos como si fueran tu ex: no los dejes volver.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>👨‍🏫 Pide ayuda</h2>
+      <ul>
+        <li>Únete a grupos de estudio (¡pero que no se conviertan en chismógrafos!).</li>
+        <li>Consulta a profesores, tutores o personas que ya ingresaron.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>🧘‍♀️ Cuida tu salud mental</h2>
+      <ul>
+        <li>Duerme bien, come bien y respira. No eres una máquina, aunque a veces lo parezcas.</li>
+        <li>Evita saturarte: un descanso también es parte del estudio.</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    Hecho con 💻 y un poquito de estrés preuniversitario. ¡Tú puedes lograrlo!
+  </footer>
+
+</body>
+</html>
